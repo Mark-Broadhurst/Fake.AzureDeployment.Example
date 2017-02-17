@@ -1,0 +1,1 @@
+packages\FAKE\tools\FAKE.exe Build.fsx "parallel-jobs=8"
